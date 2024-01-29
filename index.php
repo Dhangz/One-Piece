@@ -15,7 +15,7 @@
     <?php include("includes/navbar.php"); ?>
 
     <main>
-        <img class="onepiece" width="700" style="margin-right: 50%;" src="imgs/onepiece.png.crdownload" alt="">
+        <img class="onepiece" width="700" style="margin-right: 50%;" src="imgs/onepiece.jpg" alt="">
     </main>
 
     <footer>
