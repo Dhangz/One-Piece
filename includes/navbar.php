@@ -1,5 +1,5 @@
 <header>
-        <p class="logo">One Piece</p>
+        <a href="#"><img src="imgs/logo.jpg" alt="logo" width="120" style="border-radius: 50%;"></a>
         <nav>
             <ul>
                 <li><a href='index.php'>Home</a></li>
